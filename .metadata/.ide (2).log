@@ -1,0 +1,271 @@
+2023-09-21 15:50:39,560 [INFO] Activator:177 - 
+
+
+2023-09-21 15:50:39,560 [INFO] Activator:178 - !SESSION log4j initialized
+2023-09-21 15:50:55,598 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-09-21 15:50:55,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-09-21 15:50:55,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-09-21 15:50:55,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-09-21 15:50:55,604 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-09-21 15:52:22,567 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2023-09-21 15:52:22,569 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$6.run(TargetSelectorAdapter.java:310)
+2023-09-21 15:52:22,570 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166)
+2023-09-21 15:52:22,571 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+2023-09-21 15:52:22,572 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+2023-09-21 15:52:22,573 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-09-21 15:52:22,573 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-09-21 15:52:22,575 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-09-21 15:52:22,578 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-09-21 15:52:22,578 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+2023-09-21 15:52:22,579 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-09-21 15:52:22,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-09-21 15:52:22,581 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-09-21 15:52:22,594 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-09-21 15:52:22,595 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-09-21 15:52:22,596 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-01 15:46:56,978 [INFO] Activator:177 - 
+
+
+2023-10-01 15:46:56,981 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-01 15:53:37,422 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-01 15:53:37,424 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-01 15:53:37,425 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-01 15:53:37,425 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-01 15:53:37,428 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-01 22:27:25,279 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2023-10-01 22:27:25,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$6.run(TargetSelectorAdapter.java:310)
+2023-10-01 22:27:25,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166)
+2023-10-01 22:27:25,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+2023-10-01 22:27:25,284 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+2023-10-01 22:27:25,286 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-10-01 22:27:25,286 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-10-01 22:27:25,286 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-10-01 22:27:25,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-10-01 22:27:25,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-10-01 22:27:25,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-02 10:12:57,864 [INFO] Activator:177 - 
+
+
+2023-10-02 10:12:57,866 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-02 14:58:08,134 [INFO] Activator:177 - 
+
+
+2023-10-02 14:58:08,137 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-05 09:52:45,565 [INFO] Activator:177 - 
+
+
+2023-10-05 09:52:45,568 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-05 09:53:23,878 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-05 09:53:23,879 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-05 09:53:23,881 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-05 09:53:23,881 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-05 09:53:23,883 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 10:17:49,875 [INFO] Activator:177 - 
+
+
+2023-10-26 10:17:49,880 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-26 10:18:18,817 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 10:18:18,819 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 10:18:18,819 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 10:18:18,821 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 10:18:18,821 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 14:34:07,573 [INFO] Activator:177 - 
+
+
+2023-10-26 14:34:07,573 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-26 14:34:17,316 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 14:34:17,318 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 14:34:17,319 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 14:34:17,319 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-26 14:34:17,319 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-27 09:51:32,371 [INFO] Activator:177 - 
+
+
+2023-10-27 09:51:32,372 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-27 14:23:20,496 [INFO] Activator:177 - 
+
+
+2023-10-27 14:23:20,498 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-27 14:24:36,565 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-27 14:24:36,568 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-27 14:24:36,569 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-27 14:24:36,569 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-27 14:24:36,570 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:14:47,694 [INFO] Activator:177 - 
+
+
+2023-10-28 08:14:47,694 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-28 08:17:36,148 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:17:36,149 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:17:36,151 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:17:36,152 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:17:36,153 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 08:31:03,809 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.ecosystemintegration_2.1.0.202306200626
+2023-10-28 08:31:04,464 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.ecosystemintegration.stinsider_2.1.0.202305191444
+2023-10-28 08:31:04,584 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.ecosystemintegration.ui_2.1.0.202306012137
+2023-10-28 08:31:04,844 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.logger_2.1.0.202305191444
+2023-10-28 08:31:05,547 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.logger.ui_2.1.0.202305191444
+2023-10-28 08:31:05,648 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.preferences_2.1.0.202305191444
+2023-10-28 08:31:06,047 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.projectcreation_2.2.0.202305191444
+2023-10-28 08:31:06,557 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.projectcreation.ui_2.1.0.202305091550
+2023-10-28 08:31:06,606 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.utils_2.1.0.202305191444
+2023-10-28 08:31:06,966 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.cdt.lockdown_1.1.0.202305161737
+2023-10-28 08:31:07,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.cmake_1.1.0.202306011901
+2023-10-28 08:31:07,686 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.common.services.adapted_2.3.0.202305091550
+2023-10-28 08:31:08,036 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.common.services.mx_2.3.0.202306020922
+2023-10-28 08:31:08,100 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.common.ui_2.1.0.202305091550
+2023-10-28 08:31:08,663 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.common.utils_2.1.0.202305091550
+2023-10-28 08:31:08,938 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.jre_3.0.0.202305091045
+2023-10-28 08:31:09,080 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.analytics_2.3.0.202306160841
+2023-10-28 08:31:09,303 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.build_2.1.0.202305091550
+2023-10-28 08:31:09,811 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.build.ui_2.2.0.202305091550
+2023-10-28 08:31:10,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.buildanalyzer_2.1.0.202305091550
+2023-10-28 08:31:10,262 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.converters_2.3.0.202305091550
+2023-10-28 08:31:10,453 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.cyclomaticcomplexity_1.1.0.202305091550
+2023-10-28 08:31:10,788 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug_3.2.0.202306200753
+2023-10-28 08:31:11,036 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug.jlink_2.2.0.202305091550
+2023-10-28 08:31:11,045 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug.openocd_2.1.0.202306221132
+2023-10-28 08:31:11,914 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug.sfrview_2.1.0.202305091550
+2023-10-28 08:31:12,069 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug.stlink_2.2.0.202306091753
+2023-10-28 08:31:12,120 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.debug.swv_3.1.0.202305091550
+2023-10-28 08:31:12,212 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.cubeprogrammer_2.1.0.202305091550
+2023-10-28 08:31:13,052 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools_2.1.0.202305091550
+2023-10-28 08:31:13,170 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.gnu_arm_embedded_2.1.0.202305091550
+2023-10-28 08:31:13,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.gnu_tools_for_stm32_2.2.0.202305091550
+2023-10-28 08:31:13,428 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.jlink_2.2.0.202305091550
+2023-10-28 08:31:14,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.make_2.1.0.202305091550
+2023-10-28 08:31:14,336 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.openocd_2.3.0.202305091550
+2023-10-28 08:31:14,470 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.stlink_gdb_server_2.1.0.202305091550
+2023-10-28 08:31:14,770 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.stlinkserver_2.1.0.202305091550
+2023-10-28 08:31:15,537 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.ui_2.1.0.202305091550
+2023-10-28 08:31:15,577 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.faultanalyzer_2.1.0.202306200629
+2023-10-28 08:31:15,645 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.freertos_2.1.0.202305091550
+2023-10-28 08:31:15,685 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.informationcenter_2.2.0.202306231147
+2023-10-28 08:31:16,698 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.linker_2.1.0.202306290935
+2023-10-28 08:31:16,701 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.linker.ui_2.1.0.202305091550
+2023-10-28 08:31:16,752 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.linkerdb_2.1.0.202305091550
+2023-10-28 08:31:16,860 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.livewatch_2.1.0.202305101308
+2023-10-28 08:31:17,894 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.p2_2.2.0.202305091550
+2023-10-28 08:31:17,961 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.productdb.debug_2.1.0.202306151215
+2023-10-28 08:31:17,974 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.productdb_2.1.0.202306151215
+2023-10-28 08:31:18,162 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.projectnatures_2.1.0.202305191444
+2023-10-28 08:31:19,127 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.projecttree_2.1.0.202305191444
+2023-10-28 08:31:19,172 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.resources.common_2.1.0.202305191444
+2023-10-28 08:31:19,334 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.resources.extended_2.1.0.202305091550
+2023-10-28 08:31:19,436 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.resources.threadsafe_2.1.0.202305091550
+2023-10-28 08:31:20,213 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.rtosproxy_1.1.0.202305091550
+2023-10-28 08:31:20,460 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.stackanalyzer_2.1.0.202305091550
+2023-10-28 08:31:20,510 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.startup_2.1.0.202305191444
+2023-10-28 08:31:20,660 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.targetadapter_2.1.0.202305191444
+2023-10-28 08:31:21,311 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.tcp.console_1.1.0.202307051805
+2023-10-28 08:31:21,332 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.threadx_2.1.0.202305091550
+2023-10-28 08:31:21,596 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.toolchain.arm_none_2.3.0.202305091550
+2023-10-28 08:31:21,935 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.toolchain_2.3.0.202305091550
+2023-10-28 08:31:22,469 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.toolchain.ui_2.2.0.202305091550
+2023-10-28 08:31:22,718 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.debug_2.1.0.202305092038
+2023-10-28 08:31:22,792 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.debug.openocd_2.1.0.202305092038
+2023-10-28 08:31:22,994 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.ide_2.1.0.202305092038
+2023-10-28 08:31:23,661 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linker_2.1.0.202305092038
+2023-10-28 08:31:23,845 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linkerdb_2.1.0.202305092038
+2023-10-28 08:31:23,970 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linux.debug_2.2.0.202305092038
+2023-10-28 08:31:24,275 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linux.ide_3.0.0.202305180958
+2023-10-28 08:31:24,703 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linux.openstlinux.core_2.1.0.202305092038
+2023-10-28 08:31:25,053 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linux.projectcreation_3.0.0.202305180958
+2023-10-28 08:31:25,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.linux.toolchain_2.1.0.202305092038
+2023-10-28 08:31:25,561 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.productdb.debug_2.1.0.202305092038
+2023-10-28 08:31:25,794 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.productdb_2.1.0.202306112031
+2023-10-28 08:31:26,387 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.projectnatures_2.1.0.202305092038
+2023-10-28 08:31:26,509 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.projecttree_2.1.0.202305191445
+2023-10-28 08:31:26,602 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.remote.serial_2.2.0.202305161926
+2023-10-28 08:31:26,947 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.resources.common_2.1.0.202305092038
+2023-10-28 08:31:26,950 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.remote.ssh_2.1.0.202305092038
+2023-10-28 08:31:27,588 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.resources.extended_2.1.0.202305092038
+2023-10-28 08:31:27,752 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.startup_2.1.0.202305092038
+2023-10-28 08:31:28,027 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mpu.targetadapter_2.1.0.202305191445
+2023-10-28 08:31:40,578 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.mx_6.9.2.202309101412
+2023-10-28 08:31:41,909 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.common.feature.mx.stinsider_6.9.2.202309101412
+2023-10-28 08:32:02,118 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.common.services_2.3.2.202308021314
+2023-10-28 08:32:03,549 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.documentation_2.2.1.202309041445
+2023-10-28 08:32:05,013 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.gnu_tools_for_stm32.11_3_rel1.bin_1.1.1.202309131626
+2023-10-28 08:32:07,874 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.externaltools.gnu_tools_for_stm32.11_3_rel1_1.2.1.202309051358
+2023-10-28 08:32:09,674 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.ide_2.3.1.202308241015
+2023-10-28 08:32:10,806 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\com.st.stm32cube.ide.feature.mcu.rcp_2.2.2.202308021314
+2023-10-28 08:35:17,442 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.ecf.core.feature_1.6.1.v20211005-1944
+2023-10-28 08:35:17,663 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301
+2023-10-28 08:35:18,069 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301
+2023-10-28 08:35:18,571 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.userstorage_1.2.0.v20210517-0327
+2023-10-28 08:35:21,319 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126
+2023-10-28 08:36:53,584 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.e4.rcp_4.27.0.v20230220-1431
+2023-10-28 08:36:54,458 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.701.v20221112-0806
+2023-10-28 08:36:55,107 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.emf.common_2.29.0.v20230223-0922
+2023-10-28 08:36:55,583 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.emf.ecore_2.31.0.v20230226-0921
+2023-10-28 08:36:55,750 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.epp.mpc_1.10.1.v20221110-1841
+2023-10-28 08:36:56,033 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.equinox.p2.core.feature_1.6.1700.v20230120-0604
+2023-10-28 08:36:56,148 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.equinox.p2.discovery.feature_1.2.1200.v20221111-1340
+2023-10-28 08:36:56,731 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.equinox.p2.extras.feature_1.4.1900.v20230120-0604
+2023-10-28 08:36:56,833 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.equinox.p2.rcp.feature_1.4.1900.v20230120-0604
+2023-10-28 08:36:56,935 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.equinox.p2.user.ui_2.4.1900.v20230120-0604
+2023-10-28 08:36:57,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.help_2.3.1300.v20230302-0300
+2023-10-28 08:36:58,172 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.platform_4.27.0.v20230302-0300
+2023-10-28 08:36:58,264 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.rcp_4.27.0.v20230302-0300
+2023-10-28 08:37:09,564 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.build.crossgcc_11.1.1.202303201356
+2023-10-28 08:37:11,609 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.debug.gdbjtag_11.1.1.202303201356
+2023-10-28 08:37:11,736 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.debug.ui.memory_11.1.1.202303201356
+2023-10-28 08:37:11,944 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt_11.1.1.202303201430
+2023-10-28 08:37:13,179 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.gdb_11.1.1.202303201356
+2023-10-28 08:37:13,287 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.gnu.build_11.1.1.202303201417
+2023-10-28 08:37:13,369 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.gnu.debug_11.1.1.202303201356
+2023-10-28 08:37:13,494 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.gnu.dsf_11.1.1.202303201356
+2023-10-28 08:37:14,379 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.launch.remote_11.1.1.202303201356
+2023-10-28 08:37:14,436 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.native_11.1.1.202303201430
+2023-10-28 08:37:14,529 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.cdt.platform_11.1.1.202303201430
+2023-10-28 08:37:15,508 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.remote.console_11.1.1.202303201356
+2023-10-28 08:37:15,572 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.remote_11.1.1.202303201356
+2023-10-28 08:37:15,653 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.remote.serial_11.1.1.202303201356
+2023-10-28 08:37:15,738 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\features\org.eclipse.tm.terminal.control.feature_11.1.1.202303201356
+2023-10-28 14:50:44,625 [INFO] Activator:177 - 
+
+
+2023-10-28 14:50:44,628 [INFO] Activator:178 - !SESSION log4j initialized
+2023-10-28 15:02:20,057 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 15:02:20,165 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 15:02:20,167 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 15:02:20,170 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 15:02:20,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2023-10-28 15:24:26,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2023-10-28 15:24:26,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$6.run(TargetSelectorAdapter.java:310)
+2023-10-28 15:24:26,308 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166)
+2023-10-28 15:24:26,315 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+2023-10-28 15:24:26,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+2023-10-28 15:24:26,335 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-10-28 15:24:26,338 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-10-28 15:24:26,341 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-10-28 15:24:26,347 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-10-28 15:24:26,354 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+2023-10-28 15:24:26,383 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-10-28 15:24:26,384 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-10-28 15:24:26,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-10-28 15:24:26,424 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-10-28 15:24:26,432 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-10-28 15:24:26,435 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-28 16:27:33,646 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2023-10-28 16:27:33,651 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$6.run(TargetSelectorAdapter.java:310)
+2023-10-28 16:27:33,652 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166)
+2023-10-28 16:27:33,652 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+2023-10-28 16:27:33,652 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+2023-10-28 16:27:33,652 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-10-28 16:27:33,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
